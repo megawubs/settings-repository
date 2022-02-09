@@ -1,0 +1,22 @@
+<application>
+  <component name="PipelineViewerConfigApp">
+    <option name="mappings">
+      <list>
+        <Mapping>
+          <option name="gitlabProjectId" value="22588732" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="neo" />
+          <option name="projectPath" value="fringe-company/neo" />
+          <option name="remote" value="git@gitlab.com:fringe-company/neo.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="7812701" />
+          <option name="host" value="https://gitlab.com" />
+          <option name="projectName" value="Trajectplanner" />
+          <option name="projectPath" value="fringe-company/trajectplanner" />
+          <option name="remote" value="git@gitlab.com:fringe-company/trajectplanner.git" />
+        </Mapping>
+      </list>
+    </option>
+  </component>
+</application>
