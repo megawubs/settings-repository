@@ -38,4 +38,8 @@
     <option name="supportNonStrictForeignKeys" value="false" />
     <option name="useAliasInJoinCompletion" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
