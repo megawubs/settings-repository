@@ -33,7 +33,6 @@
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
-    <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorDuplicate" />
