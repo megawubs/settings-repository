@@ -4,7 +4,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="155527d7-fc68-4145-9981-0e80fe98a2c6" name="PHP 7.4" home="/usr/local/Cellar/php@7.4/7.4.26_1/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="xdebug" />
-      <interpreter id="6a872a47-b5f4-47ea-9810-15c7a3ae5a62" name="PHP 8.1" home="/usr/local/Cellar/php/8.1.1/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="ed4f78ac-df50-499e-a409-fba6b959c3e2" name="PHP 8.1.3" home="/usr/local/Cellar/php/8.1.3_1/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -93,12 +93,12 @@
           </loaded_extensions>
         </phpinfo>
       </interpreter>
-      <interpreter name="PHP 8.1">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.1.1/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.1.1/bin/php" path_separator=":" version="8.1.1">
-          <additional_php_ini>/usr/local/etc/php/8.1/conf.d/ext-opcache.ini, /usr/local/etc/php/8.1/conf.d/xdebug.ini</additional_php_ini>
+      <interpreter name="PHP 8.1.3">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.1.3_1/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.1.3_1/bin/php" path_separator=":" version="8.1.3">
+          <additional_php_ini>/usr/local/etc/php/8.1/conf.d/error_log.ini, /usr/local/etc/php/8.1/conf.d/ext-opcache.ini, /usr/local/etc/php/8.1/conf.d/php-memory-limits.ini, /usr/local/etc/php/8.1/conf.d/xdebug.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/8.1/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.1.1/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.1.3_1/share/php/pear" />
           </configuration_options>
           <debuggers>
             <debugger_info debugger="xdebug" debugger_version="3.1.3">
@@ -152,6 +152,7 @@
             <extension name="posix" />
             <extension name="pspell" />
             <extension name="readline" />
+            <extension name="redis" />
             <extension name="session" />
             <extension name="shmop" />
             <extension name="soap" />
