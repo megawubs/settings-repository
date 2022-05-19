@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="UIFont" value="JetBrains Mono" />
     <option name="highContrast" value="true" />
     <option name="accentMode" value="true" />
     <option name="isHighContrast" value="true" />
@@ -12,6 +13,7 @@
     <option name="accentColor" value="009688" />
     <option name="userId" value="226c720b:16b8dadc31d:-8000" />
     <option name="version" value="7.5.0" />
+    <option name="uiFont" value="JetBrains Mono" />
     <option name="expUIEnabled" value="true" />
   </component>
 </application>
