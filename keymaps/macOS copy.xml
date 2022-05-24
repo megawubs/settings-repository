@@ -10,6 +10,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt r" />
     <keyboard-shortcut first-keystroke="meta t" second-keystroke="meta t" />
   </action>
+  <action id="CollapsiblePanel-toggle" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />
   </action>
@@ -122,6 +123,7 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
+  <action id="SplitChooser.SplitCenter" />
   <action id="SplitSelectionIntoLines">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
@@ -134,6 +136,7 @@
   <action id="ToggleFullScreen" />
   <action id="TransparentLeaderAction">
     <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="space" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
