@@ -83,6 +83,11 @@
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="CWMHostShowPopupAction" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="PhpListenDebugAction" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Touch Bar" />
