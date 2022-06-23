@@ -5,11 +5,6 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="SettingsEntryPoint" is_action="true" action_type="-1" position="13">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="SearchEverywhere" is_action="true" action_type="-1" position="12">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -61,6 +56,12 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="PhpListenDebugAction" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="SaveAll" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -83,7 +84,7 @@
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CWMHostShowPopupAction" is_action="true" action_type="1" position="2">
+    <group value="PhpListenDebugAction" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -92,6 +93,11 @@
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CWMHostShowPopupAction" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
