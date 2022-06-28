@@ -9,7 +9,6 @@
       <mapping pattern="Bob wants to have a page with personal information" type="PLAIN_TEXT" />
       <mapping pattern="woonkamer" type="PLAIN_TEXT" />
       <mapping pattern="beneden" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
