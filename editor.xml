@@ -34,7 +34,6 @@
   </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_HERE_DOCS" value="true" />
-    <option name="COLLAPSE_FUNCTION_BODY" value="true" />
   </component>
   <component name="SqlCodeCompletionSettings" USE_ALIAS_JOIN_COMPLETION="false" NON_STRICT_FOREIGN_KEYS="false">
     <option name="supportNonStrictForeignKeys" value="false" />
