@@ -133,6 +133,7 @@
   <action id="StructuralSearchPlugin.StructuralSearchAction">
     <keyboard-shortcut first-keystroke="ctrl meta f" />
   </action>
+  <action id="Switcher" />
   <action id="ToggleFullScreen" />
   <action id="TransparentLeaderAction">
     <keyboard-shortcut first-keystroke="ctrl s" />
