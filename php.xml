@@ -3,23 +3,19 @@
   <component name="PhpDebugGeneral" xdebug_notify_resolved_breakpoints="false" xdebug_resolve_breakpoints="false" />
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="1ad88666-4dea-4cdd-aa6e-8b1c85d6e6ae" name="PHP 8.1" home="/usr/local/Cellar/php/8.1.5/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="xdebug.so" />
+      <interpreter id="d68e71dc-400f-4e8a-9da6-83b43e8c3745" name="PHP 8.1" home="/usr/local/Cellar/php/8.1.7/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 8.1">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.1.5/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.1.5/bin/php" path_separator=":" version="8.1.5">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.1.7/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.1.7/bin/php" path_separator=":" version="8.1.7">
           <additional_php_ini>/usr/local/etc/php/8.1/conf.d/error_log.ini, /usr/local/etc/php/8.1/conf.d/ext-opcache.ini, /usr/local/etc/php/8.1/conf.d/php-memory-limits.ini, /usr/local/etc/php/8.1/conf.d/xdebug.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/8.1/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.1.5/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.1.7/share/php/pear" />
           </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="3.1.4">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
+          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
             <extension name="FFI" />
@@ -79,7 +75,6 @@
             <extension name="sysvshm" />
             <extension name="tidy" />
             <extension name="tokenizer" />
-            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
