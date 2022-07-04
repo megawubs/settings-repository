@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="FRN-2005" type="AUTO_DETECTED" />
       <mapping pattern="key" type="AUTO_DETECTED" />
+      <mapping pattern="ideavimrc" type="AUTO_DETECTED" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="slaapkamer" type="PLAIN_TEXT" />
