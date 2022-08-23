@@ -1,6 +1,5 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="searchOverloadedMethods" value="true" />
@@ -8,9 +7,9 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -28,7 +27,7 @@
     <mask>*.json</mask>
     <mask>*.ts</mask>
     <mask>*.blade.php</mask>
-    <mask>*.php</mask>
     <mask>*.blade.*</mask>
+    <mask>*.php</mask>
   </component>
 </application>
