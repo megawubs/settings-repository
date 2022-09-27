@@ -11,10 +11,10 @@
       <mapping pattern="woonkamer" type="PLAIN_TEXT" />
       <mapping pattern="beneden" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="stub" type="PLAIN_TEXT" />
-      <mapping ext="ser" type="PLAIN_TEXT" />
-      <mapping ext="obj" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="obj" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="Shell Script" />
       <mapping pattern="add-ssh-key" type="Shell Script" />
       <mapping pattern="deploy-dev" type="Shell Script" />
