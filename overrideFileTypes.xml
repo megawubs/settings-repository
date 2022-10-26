@@ -1,5 +1,5 @@
 <application>
   <component name="OverrideFileTypeManager">
-    <file url="file://$USER_HOME$/.atamanrc.config" value="HOCON" />
+    <file url="file://$USER_HOME$/Projects/sibi/resources/http/http-client.private.env.tmpl" value="JSON" />
   </component>
 </application>
