@@ -9,7 +9,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -20,7 +20,6 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.graphqls</mask>
-    <mask>*.js</mask>
     <mask>*.sql</mask>
     <mask>*.yaml</mask>
     <mask>*.html</mask>
@@ -31,5 +30,6 @@
     <mask>*.json</mask>
     <mask>*.blade.php</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
