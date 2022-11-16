@@ -9,7 +9,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -29,7 +29,7 @@
     <mask>*.md</mask>
     <mask>*.json</mask>
     <mask>*.blade.php</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
