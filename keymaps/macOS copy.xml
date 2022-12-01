@@ -39,6 +39,11 @@
   </action>
   <action id="EditorChooseLookupItemReplace" />
   <action id="EditorCutLineEnd" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
@@ -62,6 +67,7 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="shift tab" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
