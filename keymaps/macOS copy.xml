@@ -20,11 +20,14 @@
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.ColumnVisibility" />
   <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.SetDefault" />
   <action id="DatabaseView.CopyAction" />
   <action id="Debug" />
   <action id="Debugger.RemoveAllBreakpoints">
     <keyboard-shortcut first-keystroke="shift alt number_sign" />
   </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DockPinnedMode">
@@ -72,6 +75,7 @@
   </action>
   <action id="Git.Commit.And.Push.Executor" />
   <action id="Git.Commit.Stage" />
+  <action id="GotoAction" />
   <action id="GotoLine" />
   <action id="GotoRow" />
   <action id="Hg.Commit.And.Push.Executor" />
@@ -80,6 +84,8 @@
   <action id="LeaderAction">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
   <action id="NavBar-selectHome">
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="meta left" />
@@ -88,12 +94,16 @@
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
+  <action id="NextEditorTab" />
+  <action id="NextTab" />
   <action id="OpenAtamanConfigAction">
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="alt k" second-keystroke="alt l" />
   </action>
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
@@ -120,6 +130,7 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowContent" />
   <action id="SplitChooser.SplitCenter" />
   <action id="SplitSelectionIntoLines">
     <keyboard-shortcut first-keystroke="shift meta l" />
@@ -148,6 +159,7 @@
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
   </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.UpdateProject" />
   <action id="VimFindActionIdAction">
     <keyboard-shortcut first-keystroke="alt i" second-keystroke="alt v" />
