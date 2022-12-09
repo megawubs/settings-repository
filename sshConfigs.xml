@@ -9,6 +9,7 @@
         <option name="customName" value="bram@35.204.232.200:22 agent2" />
       </sshConfig>
       <sshConfig host="136.144.236.242" id="7d6e5f52-94a5-4047-8586-d2ebc5078faf" keyPath="$USER_HOME$/.ssh/sibi.pem" port="22" nameFormat="DESCRIPTIVE" username="bram" useOpenSSHConfig="true" />
+      <sshConfig host="185.144.224.27" id="38d30758-be54-4dd8-9833-f5746194980d" keyPath="$USER_HOME$/.ssh/sibi.pem" port="22" nameFormat="DESCRIPTIVE" username="bram" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
