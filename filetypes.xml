@@ -4,6 +4,7 @@
       <mapping pattern="FRN-2005" type="AUTO_DETECTED" />
       <mapping pattern="key" type="AUTO_DETECTED" />
       <mapping pattern="ideavimrc" type="AUTO_DETECTED" />
+      <mapping ext="cql" type="Cypher" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="slaapkamer" type="PLAIN_TEXT" />
@@ -15,6 +16,7 @@
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="obj" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <removed_mapping ext="cql" type="SQL" />
       <mapping pattern="pre-commit" type="Shell Script" />
       <mapping pattern="add-ssh-key" type="Shell Script" />
       <mapping pattern="deploy-dev" type="Shell Script" />
